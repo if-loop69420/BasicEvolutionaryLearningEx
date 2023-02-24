@@ -1,4 +1,4 @@
-# compAirEvoEx
+# Evolutionary Learning Ex
 This repository is home to the sim_learner Elixir application i wrote for a scientific paper.
 
 ## Usage
